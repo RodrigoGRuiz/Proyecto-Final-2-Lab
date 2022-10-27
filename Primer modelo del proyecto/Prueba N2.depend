@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1666201069 source:c:\users\usuario\desktop\prueba de ideas para proyect final\prueba n2\main.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1665631948 source:c:\users\usuario\desktop\prueba de ideas para proyect final\prueba n2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1665631948 c:\users\usuario\desktop\prueba de ideas para proyect final\prueba n2\gotoxy.h
+
