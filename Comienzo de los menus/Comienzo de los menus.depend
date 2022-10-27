@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666740439 source:c:\users\usuario\desktop\prueba de ideas para proyect final\comienzo de los menus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
