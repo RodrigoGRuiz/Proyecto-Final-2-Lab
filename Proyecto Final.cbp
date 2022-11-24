@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto Final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Script file="lib_finder.script" />
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../../../../../../CodeBlocks/MinGW/lib/pdcurses.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="librerias/TDAarboles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/TDAarboles.h" />
+		<Unit filename="librerias/TDAlistaSimple.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/TDAlistaSimple.h" />
+		<Unit filename="librerias/botonesAnimaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/botonesAnimaciones.h" />
+		<Unit filename="librerias/enemigo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/enemigo.h" />
+		<Unit filename="librerias/estructuras.h" />
+		<Unit filename="librerias/gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/gotoxy.h" />
+		<Unit filename="librerias/menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/menus.h" />
+		<Unit filename="librerias/objeto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/objeto.h" />
+		<Unit filename="librerias/personaje.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/personaje.h" />
+		<Unit filename="librerias/puertas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/puertas.h" />
+		<Unit filename="librerias/sala.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/sala.h" />
+		<Unit filename="librerias/usuario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/usuario.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,549 @@
+# depslib dependency file v1.0
+1666668749 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668176124 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\main.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"librerias/TDAlistaSimple.h"
+	"librerias/TDAarboles.h"
+	"librerias/botonesAnimaciones.h"
+	"librerias/gotoxy.h"
+	"librerias/usuario.h"
+	"librerias/menus.h"
+	"librerias/estructuras.h"
+	"librerias/sala.h"
+	"librerias/enemigo.h"
+	"librerias/personaje.h"
+	"librerias/objeto.h"
+	"librerias/puertas.h"
+
+1666363758 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\gotoxy.h
+
+1667449157 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\botones.c
+	"botones.h"
+
+1667449201 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\botones.h
+
+1667449249 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\animacionesbotones.c
+
+1667449283 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\animacionesbotones.h
+
+1668080061 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668080024 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\gotoxy.h
+
+1668097579 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\personaje.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"enemigo.h"
+	"objeto.h"
+	"puertas.h"
+
+1667448838 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\estructuras.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1667448868 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\usuarios.c
+	"usuario.h"
+	"personaje.h"
+	"estructuras.h"
+	<stdbool.h>
+
+1668171967 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\usuario.h
+	<stdbool.h>
+	"estructuras.h"
+	"usuario.h"
+
+1668077944 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\personaje.h
+	"estructuras.h"
+	"gotoxy.h"
+
+1668096720 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\estructuras.h
+	<stdbool.h>
+
+1668177287 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\menus.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"TDAlistaSimple.h"
+	"TDAarboles.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+
+1667449112 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\menu.h
+	"usuario.h"
+
+1668176619 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\botonesanimaciones.h
+
+1667520801 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\botonesanimaciones.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+
+1668176694 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\botonesanimaciones.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+
+1668051169 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\tdalistasimple.c
+	"TDAlistaSimple.h"
+	"personaje.h"
+
+1668051169 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\tdalistasimple.h
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"personaje.h"
+
+1668176959 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\usuario.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"usuario.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"TDAarboles.h"
+	"TDAlistaSimple.h"
+
+1667531439 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\tdaarboles.h
+	"estructuras.h"
+
+1668048443 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\tdaarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"TDAarboles.h"
+	"usuario.h"
+	"personaje.h"
+	"estructuras.h"
+
+1668134571 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\menus.h
+	"usuario.h"
+	"gotoxy.h"
+	"botonesAnimaciones.h"
+
+1667533771 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\sala.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"usuario.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"TDAarboles.h"
+	"TDAlistaSimple.h"
+	"estructuras.h"
+	"sala.h"
+	"puertas.h"
+	"enemigo.h"
+	"personaje.h"
+
+1667533799 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\sala.h
+	"estructuras.h"
+	"gotoxy.h"
+	"enemigo.h"
+	"objeto.h"
+	"puertas.h"
+
+1668125572 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\enemigo.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"personaje.h"
+	"enemigo.h"
+
+1668097666 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\enemigo.h
+	"sala.h"
+	"personaje.h"
+	"enemigo.h"
+	"estructuras.h"
+
+1667533863 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\objeto.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"objeto.h"
+
+1667533863 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\objeto.h
+	"gotoxy.h"
+	"estructuras.h"
+	"sala.h"
+
+1667533863 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\puertas.h
+	"gotoxy.h"
+	"estructuras.h"
+	"sala.h"
+
+1667533863 source:c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\puertas.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"puertas.h"
+
+1668050530 c:\users\agus-notebook\desktop\facultad\2do cuatrimestre\lab y programacion\proyectofinal\proyecto final\librerias\usuario.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"usuario.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"TDAarboles.h"
+	"TDAlistaSimple.h"
+
+1668176694 source:c:\users\usuario\desktop\proyect final 2.0\librerias\botonesanimaciones.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+
+1668176619 c:\users\usuario\desktop\proyect final 2.0\librerias\botonesanimaciones.h
+
+1668080024 c:\users\usuario\desktop\proyect final 2.0\librerias\gotoxy.h
+
+1668125572 source:c:\users\usuario\desktop\proyect final 2.0\librerias\enemigo.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"personaje.h"
+	"enemigo.h"
+
+1668171967 c:\users\usuario\desktop\proyect final 2.0\librerias\usuario.h
+	<stdbool.h>
+	"estructuras.h"
+	"usuario.h"
+
+1668096720 c:\users\usuario\desktop\proyect final 2.0\librerias\estructuras.h
+	<stdbool.h>
+
+1668134571 c:\users\usuario\desktop\proyect final 2.0\librerias\menus.h
+	"usuario.h"
+	"gotoxy.h"
+	"botonesAnimaciones.h"
+
+1667533799 c:\users\usuario\desktop\proyect final 2.0\librerias\sala.h
+	"estructuras.h"
+	"gotoxy.h"
+	"enemigo.h"
+	"objeto.h"
+	"puertas.h"
+
+1668097666 c:\users\usuario\desktop\proyect final 2.0\librerias\enemigo.h
+	"sala.h"
+	"personaje.h"
+	"enemigo.h"
+	"estructuras.h"
+
+1668077944 c:\users\usuario\desktop\proyect final 2.0\librerias\personaje.h
+	"estructuras.h"
+	"gotoxy.h"
+
+1667533863 c:\users\usuario\desktop\proyect final 2.0\librerias\objeto.h
+	"gotoxy.h"
+	"estructuras.h"
+	"sala.h"
+
+1667533863 c:\users\usuario\desktop\proyect final 2.0\librerias\puertas.h
+	"gotoxy.h"
+	"estructuras.h"
+	"sala.h"
+
+1668080061 source:c:\users\usuario\desktop\proyect final 2.0\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668177287 source:c:\users\usuario\desktop\proyect final 2.0\librerias\menus.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"TDAlistaSimple.h"
+	"TDAarboles.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+
+1668051169 c:\users\usuario\desktop\proyect final 2.0\librerias\tdalistasimple.h
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"personaje.h"
+
+1667531439 c:\users\usuario\desktop\proyect final 2.0\librerias\tdaarboles.h
+	"estructuras.h"
+
+1667533863 source:c:\users\usuario\desktop\proyect final 2.0\librerias\objeto.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"objeto.h"
+
+1668097579 source:c:\users\usuario\desktop\proyect final 2.0\librerias\personaje.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"enemigo.h"
+	"objeto.h"
+	"puertas.h"
+
+1667533863 source:c:\users\usuario\desktop\proyect final 2.0\librerias\puertas.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"gotoxy.h"
+	"usuario.h"
+	"menus.h"
+	"estructuras.h"
+	"sala.h"
+	"puertas.h"
+
+1667533771 source:c:\users\usuario\desktop\proyect final 2.0\librerias\sala.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"usuario.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"TDAarboles.h"
+	"TDAlistaSimple.h"
+	"estructuras.h"
+	"sala.h"
+	"puertas.h"
+	"enemigo.h"
+	"personaje.h"
+
+1668048443 source:c:\users\usuario\desktop\proyect final 2.0\librerias\tdaarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"TDAarboles.h"
+	"usuario.h"
+	"personaje.h"
+	"estructuras.h"
+
+1668051169 source:c:\users\usuario\desktop\proyect final 2.0\librerias\tdalistasimple.c
+	"TDAlistaSimple.h"
+	"personaje.h"
+
+1668177317 source:c:\users\usuario\desktop\proyect final 2.0\librerias\usuario.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"usuario.h"
+	"botonesAnimaciones.h"
+	"gotoxy.h"
+	"TDAarboles.h"
+	"TDAlistaSimple.h"
+
+1668198338 source:c:\users\usuario\desktop\proyect final 2.0\main.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<pthread.h>
+	"librerias/TDAlistaSimple.h"
+	"librerias/TDAarboles.h"
+	"librerias/botonesAnimaciones.h"
+	"librerias/gotoxy.h"
+	"librerias/usuario.h"
+	"librerias/menus.h"
+	"librerias/estructuras.h"
+	"librerias/sala.h"
+	"librerias/enemigo.h"
+	"librerias/personaje.h"
+	"librerias/objeto.h"
+	"librerias/puertas.h"
+
